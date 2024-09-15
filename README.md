@@ -11,6 +11,11 @@ About QuizRanch
 -----------
 QuizRanch is a free alternate to Quizlet. Users are able to create their dataset on our app and pratice them. The app also includes a timer for study breaks or timing your studying. Our app also features two google API's that access you calendar and task. These are then listed in our app for you viewing!
 
+NOTE
+-----------
+Public credentials are currently unavailable as the app is currently unapproved on Google Developer API (due to time constraints) and credential generation wasn't viable for a public platform with test users; therefore, the code may not execute successfully given these circumstances!
+
+
 How to use QuizRanch
 -----------
 1. click on "Create a List!"
