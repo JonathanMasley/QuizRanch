@@ -25,28 +25,33 @@ Screenshots
 ---------- 
 
 -home page
-![alt text](<Screenshot 2024-09-15 094142.png>)
+![Screenshot 2024-09-15 094142](https://github.com/user-attachments/assets/1a0c0257-2e7a-45bc-881f-506a2ec6722a)
+
 
 -creating list
-![alt text](<Screenshot 2024-09-15 094158.png>)
+![Screenshot 2024-09-15 094158](https://github.com/user-attachments/assets/adb739b8-8c5c-499a-89ba-9296a8038c73)
 
 -adding terms
-![alt text](<Screenshot 2024-09-15 093906.png>)
+![Screenshot 2024-09-15 093906](https://github.com/user-attachments/assets/efa38e67-e80a-4868-b232-f9e916d9673b)
 
 -list of quizzes
-![alt text](<Screenshot 2024-09-15 094225.png>)
+![Screenshot 2024-09-15 094225](https://github.com/user-attachments/assets/3152b18c-515b-49a0-9aad-e6b45a756c75)
 
 -quiz
-![alt text](<Screenshot 2024-09-15 094059.png>)
+![Screenshot 2024-09-15 094059](https://github.com/user-attachments/assets/575a178f-4b4d-4561-965a-3bb3c0e2de3a)
 
 -grade
-![alt text](<Screenshot 2024-09-15 094125.png>)
+![Screenshot 2024-09-15 094125](https://github.com/user-attachments/assets/e0c4fda2-39cb-4fdc-9a77-c2618b918429)
+
 
 -Timer
-![alt text](<Screenshot 2024-09-15 093746.png>)
+![Screenshot 2024-09-15 093746](https://github.com/user-attachments/assets/b6544bdd-15e8-4daa-a5ec-3fd217a2dc22)
+
 
 -Calender
-![alt text](<Screenshot 2024-09-15 093810.png>)
+![Screenshot 2024-09-15 093810](https://github.com/user-attachments/assets/9eb095eb-7e2a-40ff-bd99-b1da18d226ff)
+
 
 -Tasks
-![alt text](<Screenshot 2024-09-15 093831.png>)
+![Screenshot 2024-09-15 093831](https://github.com/user-attachments/assets/e78c7799-f411-461f-8027-74c86fe4a922)
+
